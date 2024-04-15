@@ -1,5 +1,3 @@
-Test Repository README
+Welcome to my GitHub!
 
-this is ken, I hope this works
-
-** it worked
+Here, you can find a collection of my work throughout my undergraduate journey. Enjoy!
